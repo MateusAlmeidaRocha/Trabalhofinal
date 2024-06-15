@@ -1,3 +1,5 @@
+intregantes do grupo: Mateus Oliveira De Almeida Rocha e Eduardo
+
 1)o problema é criar um codico que auxilia o metodo de doaçao para o Rio grande do sul.
 2)eu pedi isso para ia :(Fazer um sistema para auxiliar o sistema de doação no rio grande do sul, o usuário pode fazer doações do tipo(dinheiro, alimento e peça de roupa) e a quantidade da doação, no final o usuário espera um relatório sobre a quantidade e o tipo das doações.)e ela me retornou isso: Requisitos Funcionais do Sistema de Doação no Rio Grande do Sul
 Cadastro de Doações
